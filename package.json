@@ -6,6 +6,5 @@
   "scripts": {
     "test": "./index.js"
   },
-  "author": "",
   "license": "ISC"
 }
