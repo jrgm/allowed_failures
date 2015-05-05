@@ -10,7 +10,7 @@ notifications:
     jrgm@mozilla.com
 
 script:
-  - npm test
+  - travis_retry npm test
 
 matrix:
   allow_failures:
